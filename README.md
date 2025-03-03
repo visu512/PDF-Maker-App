@@ -4,6 +4,5 @@
   <img src="https://i.postimg.cc/FFJJ66wF/IMG-20250303-WA0005.jpg" width="200" height="500"/>
   <img src="https://i.postimg.cc/tJPZV1Fn/IMG-20250303-WA0006.jpg" width="200" height="500"/>
  <img src="https://i.postimg.cc/kX3tPcdQ/IMG-20250303-WA0008.jpg" width="200" height="500"/>
-<img src="https://i.postimg.cc/kX3tPcdQ/IMG-20250303-WA0008.jpg" width="200" height="500"/>
 
 </h1>
